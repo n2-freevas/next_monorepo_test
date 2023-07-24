@@ -5,5 +5,5 @@
   "author": "taro.nonoyama",
   "license": "MIT",
   "private": true,
-  "workspaces": ["myapp1", "myapp2"]
+  "workspaces": ["admin/*", "web/*"]
 }
