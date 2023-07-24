@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "repository": "git@github.com:n2-freevas/next_monorepo_test.git",
+  "author": "taro.nonoyama",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["myapp1", "myapp2"]
+}
